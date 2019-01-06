@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'ciclegordita';
+    src: url('cicle/cicle-gordita.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ciclesemi';
+    src: url('cicle/cicle-semi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sunday';
+    src: url('sunday/sunday.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,3 +1,19 @@
-.center {
-  text-align: center;
+.main-header {
+  padding: 2rem 0 1rem;
+}
+
+.main-header-link {
+  text-decoration: none;
+}
+
+.main-header-title {
+  margin-bottom: 0rem;
+}
+
+.main-header-subtitle {
+  margin-bottom: 0;
+}
+
+.section {
+  margin-bottom: 3rem;
 }
